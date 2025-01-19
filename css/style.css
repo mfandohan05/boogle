@@ -1,0 +1,217 @@
+a {
+  color: #1a0dab;
+}
+.home-logo {
+  width: 96px;
+  padding: 2.5em 0em 0em 2em;
+}
+#search-box {
+  width: 652px;
+  height: 42px;
+  font-family: 'Arial', sans-serif;
+  position: absolute;
+  margin-left: 11em;
+  margin-top: -2.5em;
+  border-radius: 25px 25px 25px 25px;
+  outline: none;
+  box-shadow: 3px 3px 6px #cccccc;
+  font-size: 16px;
+  padding-left: 1em;
+  border-width: 1px;
+  border-color: #edebeb;
+}
+#search-box:hover {
+  box-shadow: 3px 3px 6px #a6a6a6;
+}
+body {
+  margin: 0;
+  min-width: 1250px;
+}
+.dots-img {
+  float: right;
+  margin-top: -3em;
+  margin-right: 10em;
+}
+.sign-in {
+  float: right;
+  margin-top: -2.5em;
+  margin-right: 3em;
+}
+.sign-in-button {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  background-color: #1a73e8;
+  color: white;
+  padding: 11px 28px 11px 28px;
+  border-radius: 4px 4px 4px 4px;
+  font-size: 0.75em;
+  font-weight: 500;
+}
+.sign-in-button:hover {
+  background-color: #308aff;
+  box-shadow: 1px 1px 1px grey;
+}
+.navigation-link {
+  display: inline;
+  padding: 9px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.navigation-link>a {
+  text-decoration: none;
+  color: grey;
+}
+.navigation {
+  padding-top: 0.5em;
+  padding-left: 11.5em;
+}
+#active-navigation-link {
+  display: inline;
+  padding: 0px 0px 14px 0px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  border-bottom: #1a73e8 solid 3px;
+  padding-bottom: 14px;
+}
+#active-navigation-link>a {
+  text-decoration: none;
+  color: #1a73e8;
+}
+.navigation-link--settings {
+  display: inline;
+  padding: 9px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  padding-left: 60px;
+}
+.navigation-link--settings>a {
+  color: grey;
+  text-decoration: none;
+}
+.navigation-link--tools {
+  display: inline;
+  padding: 9px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.navigation-link--tools>a {
+  text-decoration: none;
+  color: grey;
+}
+.subtitle {
+ padding-left: 179.9px;
+ color: grey;
+ font-family: 'Roboto', sans-serif;
+ font-weight: 100;
+ font-size: 14px;
+}
+.results-container {
+  padding-left: 179.9px;
+}
+.results-website {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: black;
+  font-weight: 200;
+  padding-top: 2em;
+}
+
+.results-container>a {
+  text-decoration: none;
+}
+.results-website-title {
+  margin: -5px 0px -10px 0px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+}
+.results-website-title:hover {
+  text-decoration: underline;
+}
+#grey-color {
+  color: grey;
+}
+.results-description {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: grey;
+}
+#search-bold-term {
+  color: #363636;
+  font-weight: 500;
+}
+.rating-img {
+  margin-top: -1px;
+}
+.data-table-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: grey;
+}
+.interactive-table-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  padding-top: 1.25em;
+}
+table, th, td {
+  bordesr: 1px solid black;
+  bordser-collapse: collapse;
+}
+.interactive-table-button {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: grey;
+  padding-top: 3.25em;
+}
+.interactive-table-button>a {
+  text-decoration: none;
+  color: grey;
+}
+.preview-tm {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+.preview-tm>a {
+  text-decoration: none;
+}
+.img-tm-border {
+  border-radius: 10px 10px 10px 10px;
+}
+footer {
+  background-color: #f2f2f2;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin: 0;
+}
+.footer-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: grey;
+  font-size: 14px;
+}
+.footer-text>a {
+  color: grey;
+  text-decoration: none;
+}
+.footer-text>a:hover {
+  color: black;
+}
+.footer-navigation {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: grey;
+  font-size: 14px;
+  display: inline;
+  padding: 1em;
+}
+.footer-navigation>a {
+  color: grey;
+  text-decoration: none;
+}
+.footer-navigation>a:hover {
+  color: black;
+}
